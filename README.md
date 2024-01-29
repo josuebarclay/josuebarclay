@@ -5,15 +5,15 @@ public static void main(String[] args) {
 }  
 
 ### Sobre mim
-________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________
                                                                                                📜 Criador de bugs desde 2020
                                                                              📚 Atualmente estou me especializando em Java☕
                                                                                                         🇧🇷 em Campo Grande MS
                                                               🎯 Objetivos: Fazer de mim o melhor desenvolvedor possível! 👨🏼‍💻
                                                                         📰 Curiosidade: Tomar café é um caminho sem volta 🧙
-________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________
 
-### Tecnologias do meu dia!
+### Tecnologias
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,7 +26,7 @@ ________________________________________________________________________________
     <img align="center" alt="boot" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="post" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>   
 </div>
-_____________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 
 ### Minhas redes sociais
 [![Rede](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuebarclay/)

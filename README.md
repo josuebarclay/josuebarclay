@@ -26,7 +26,7 @@ ________________________________________________________________________________
     <img align="center" alt="boot" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="post" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>   
 </div>
-__________________________________________________________________________________________________________________________________
+
 
 ### Minhas redes sociais
 [![Rede](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuebarclay/)

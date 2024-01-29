@@ -6,11 +6,11 @@ public static void main(String[] args) {
 
 ### Sobre mim
 ___________________________________________________________________________________________________________________________________
-                                                                                                        📜 Criador de bugs desde 2020 
-                                                                                      📚 Atualmente estou me especializando em Java☕
-                                                                                                                 🇧🇷 em Campo Grande MS
-                                                                       🎯 Objetivos: Fazer de mim o melhor desenvolvedor possível! 👨🏼‍💻
-                                                                                 📰 Curiosidade: Tomar café é um caminho sem volta 🧙
+                                                                                                  📜 Criador de bugs desde 2020 
+                                                                                📚 Atualmente estou me especializando em Java☕
+                                                                                                           🇧🇷 em Campo Grande MS
+                                                                 🎯 Objetivos: Fazer de mim o melhor desenvolvedor possível! 👨🏼‍💻
+                                                                           📰 Curiosidade: Tomar café é um caminho sem volta 🧙
 ___________________________________________________________________________________________________________________________________
 
 ### Tecnologias do meu dia!
